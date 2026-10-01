@@ -1,0 +1,11 @@
+# Données Kaggle (à télécharger sur la page de la compétition)
+data/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+.venv/
+
+# Fichiers de travail
+.build/
