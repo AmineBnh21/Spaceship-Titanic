@@ -9,3 +9,6 @@ catboost_info/
 
 # Fichiers de travail
 .build/
+
+# Cache des probabilités hors-fold (phase 11)
+results/phase11_*.npz
